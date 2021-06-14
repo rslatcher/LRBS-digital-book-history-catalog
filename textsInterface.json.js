@@ -2,32 +2,12 @@ var texts =
     {
         "headline":
             {
-                "english": "Catalogue of the Rudolf Geyer Collection",
-                "german": "Katalog von dem Nachlass Rudolf Geyer"
-            }
-        ,
-        "stiftFlorianTip":
-            {
-                "english": "Go to Stift Florian's Website",
-                "german": "Gehe zur Website von Stift Florian"
-            }
-        ,
-        "digitalOrientalistTip":
-            {
-                "english": "Made by L.W.C. van Lit",
-                "german": "hergestellt von Dr. L.W.C. van Lit"
-            }
-        ,
-        "flagTip":
-            {
-                "english": "Switch to English",
-                "german": "Auf deutsch umstellen"
+                "english": "The Book Historian's Digital Tool-kit (LRBS 2021)"
             }
         ,
         "welcomeHeader":
             {
-                "english": "Welcome",
-                "german": "Herzlich willkommen"
+                "english": "Welcome"
             }
         ,
         "welcomeBody":
@@ -37,128 +17,105 @@ var texts =
         ,
         "searchButton":
             {
-                "english": "Search",
-                "german": "suchen"
+                "english": "Search"
             }
         ,
         "searchBox":
             {
-                "english": "Search for...",
-                "german": "suchen nach..."
+                "english": "Search for..."
             }
         ,
         "searchTip":
             {
-                "english": "Type a term and press Enter or click Search",
-                "german": "Geb einen Begriff ein und drück auf die Eingabetaste oder klick auf Suchen"
+                "english": "Type a term and press Enter or click Search"
             }
         ,
         "sortBy":
             {
-                "english": "Sort by: ",
-                "german": "Sortiere nach: "
+                "english": "Sort by: "
             }
         ,
         "sortTitleCaption":
             {
-                "english": "Title",
-                "german": "Titel"
+                "english": "Title"
             }
         ,
         "sortAuthorCaption":
             {
-                "english": "Author",
-                "german": "Verfasser"
+                "english": "Author"
             }
         ,
         "sortYearCaption":
             {
-                "english": "Year",
-                "german": "Jahre"
+                "english": "Year"
             }
         ,
         "beginTitleCatalog":
             {
-                "english": "All entries of the Geyer Catalogue",
-                "german": "Alle Einträge des Geyer-Katalogs"
+                "english": "All entries of the Catalogue"
             }
         ,
         "noResultsTitleCatalog":
             {
-                "english": "No results, showing all entries instead:",
-                "german": "Keine Ergebnisse, stattdessen werden alle Einträge angezeigt:"
+                "english": "No results, showing all entries instead:"
             }
         ,
         "againTitleCatalog":
             {
-                "english": "Showing all entries again:",
-                "german": "Alle Einträge erneut angezeigt:"
+                "english": "Showing all entries again:"
             }
         ,
         "foundItemsCatalog":
             {
-                "english": "Number of results:",
-                "german": " Anzahl der Ergebnisse:"
+                "english": "Number of results:"
             },
         "authorCatalog":
             {
-                "english": "Author: ",
-                "german": "Verfasser: "
+                "english": "Author: "
             }
         ,
         "editorCatalog":
             {
-                "english": "Editor: ",
-                "german": "Herausgeber: "
+                "english": "Editor: "
             },
         "translatorCatalog":
             {
-                "english": "Translator: ",
-                "german": "Übersetzer: "
+                "english": "Translator: "
             },
         "noAuthorCatalog":
             {
-                "english": "No author details. ",
-                "german": "Keine Autorendetails. "
+                "english": "No author details. "
             },
         "numberVolumesCatalog":
             {
-                "english": "Number of volumes: ",
-                "german": "Anzahl Banden: "
+                "english": "Number of volumes: "
             },
         "publisherCatalog":
             {
-                "english": "Publisher: ",
-                "german": "Verlag: "
+                "english": "Publisher: "
             },
         "placeCatalog":
             {
-                "english": "Place: ",
-                "german": "Stelle: "
+                "english": "Place: "
             },
         "yearCatalog":
             {
-                "english": "Year: ",
-                "german": "Jahr: "
+                "english": "Year: "
             },
         "additionalCatalog":
             {
-                "english": "Additional information on title page: ",
-                "german": "Weitere Informationen auf der Titelseite: "
+                "english": "Additional information on title page: "
             },
         "callNumberCatalog":
             {
-                "english": "Call Number: ",
-                "german": "Rufnummer: "
+                "english": "Call Number: "
             },
         "urlCatalog":
             {
-                "english": "Click here for a digitized copy",
-                "german": "Klicken Sie hier für eine digitalisierte Kopie"
+                "english": "Click here for a digitized copy"
             },
         "closeCatalog":
             {
-                "english": "Close",
-                "german": "schließen"
+                "english": "Close"
             }
     }
