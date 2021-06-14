@@ -95,49 +95,6 @@ function Simplify_Term(inputWord) {
   return returnedNoSpaces;
 }
 
-// 4. Switching interface to different language (currently German-English)
-// Called by (e)window.onload and (e)flagTip.onclick
-function Switch_Language(language) {
-  // Array of words that are both keys to the texts-Object and elementIDs of the webapp
-  toBeTranslated = Object.keys(texts);
-  // Array which is agnostic as to how many/which languages there are
-  languages = Object.keys(texts[toBeTranslated[0]]);
-  // index number of current language
-  lanIndex = languages.indexOf(language);
-
-  if (lanIndex == languages.length - 1) {
-    nextLanIndex = 0;
-  } else {
-    nextLanIndex = lanIndex + 1;
-  }
-  nextLanguage = languages[nextLanIndex];
-
-  for (key in toBeTranslated) {
-    // Filling different elements of webapp by their ID. Some need different ways of accessing their content.
-    if (toBeTranslated[key].includes("Tip")) {
-      document.getElementById(toBeTranslated[key]).title = Object.values(
-        texts[toBeTranslated[key]]
-      )[lanIndex];
-    } else if (toBeTranslated[key] == "searchBox") {
-      document.getElementById("searchTip").placeholder = Object.values(
-        texts[toBeTranslated[key]]
-      )[lanIndex];
-    } else if (toBeTranslated[key].includes("Catalog")) {
-      null;
-    } else {
-      document.getElementById(toBeTranslated[key]).innerHTML = Object.values(
-        texts[toBeTranslated[key]]
-      )[lanIndex];
-    }
-    // Setting button for switching language to the next one
-    document.getElementById("flagTip").innerHTML =
-      '<img src="iconflag' +
-      nextLanguage +
-      '.svg" height="16" width="32" class="flags" id="flagTip" )">';
-    document.getElementById("flagTip").title = Object.values(texts.flagTip)[
-      nextLanIndex
-    ];
-  }
   // Catalogue needs to be re-rendered
   if (document.getElementById("searchTip").value) {
     Search_Catalog(document.getElementById("searchTip").value);
