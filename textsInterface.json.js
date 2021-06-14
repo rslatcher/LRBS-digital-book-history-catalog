@@ -68,8 +68,8 @@ var texts =
         ,
         "beginTitleCatalog":
             {
-                "english": "All entries of the Geyer Catalogue",
-                "german": "Alle Einträge des Geyer-Katalogs"
+                "english": "All sources referenced in the course",
+                "german": "Alle Einträge des Kurs"
             }
         ,
         "noResultsTitleCatalog":
