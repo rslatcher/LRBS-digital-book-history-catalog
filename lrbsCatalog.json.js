@@ -650,66 +650,6 @@ var catData = [
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/4293914/items/FCWKPDVT",
-		"type": "speech",
-		"title": "Computer Vision and the History of Printing",
-		"URL": "http://www.bodleian.ox.ac.uk/__data/assets/pdf_file/0011/172658/JSC_Poster_v3.pdf",
-		"author": [
-			{
-				"family": "Chung",
-				"given": "Joon Son"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/groups/4293914/items/SFTPKCVX",
-		"type": "paper-conference",
-		"container-title": "Computer Vision-ECCV 2014 Workshops",
-		"page": "85–100",
-		"publisher": "Springer",
-		"source": "Google Scholar",
-		"title": "Re-presentations of Art Collections",
-		"URL": "http://link.springer.com/chapter/10.1007/978-3-319-16178-5_6",
-		"author": [
-			{
-				"family": "Chung",
-				"given": "Joon Son"
-			},
-			{
-				"family": "Arandjelović",
-				"given": "Relja"
-			},
-			{
-				"family": "Bergel",
-				"given": "Giles"
-			},
-			{
-				"family": "Franklin",
-				"given": "Alexandra"
-			},
-			{
-				"family": "Zisserman",
-				"given": "Andrew"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2016",
-					5,
-					16
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/4293914/items/R8C7XU5L",
 		"type": "book",
 		"abstract": "Charting the evolution of practicing digital history",
