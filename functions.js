@@ -53,8 +53,7 @@ window.onload = function() {
   };
 
   // Initial building of shadow catalog and interface
-  Reducing_Catalogue(catData);
-  Switch_Language("german");
+  Reducing_Catalogue(catData)
 };
 
 // 2. Creating a shadow-catalog with simplified entries to easier match a search term in the search function
@@ -176,7 +175,7 @@ function Switch_Language(language) {
     tippy("#searchTip", {
       content: Object.values(texts.searchTip)[lanIndex]
     });
-    document.getElementById("searchTip").removeAttribute("title");    
+    document.getElementById("searchTip").removeAttribute("title");
   }
 }
 document.getElementById("flagTip").onclick = function() {
