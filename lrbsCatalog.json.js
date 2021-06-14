@@ -740,5 +740,118 @@ var catData = [
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/8DB2UIK2",
+		"type": "book",
+		"abstract": "\"Chapter 6  Cataloging: From a Dusty Backroom to the World Wide Web\" published on 18 Oct 2019 by Brill.",
+		"ISBN": "978-90-04-40035-1",
+		"language": "en",
+		"note": "page: 175-226\ncontainer-title: Among Digitized Manuscripts. Philology, Codicology, Paleography in a Digital World\nsection: Among Digitized Manuscripts. Philology, Codicology, Paleography in a Digital World\nDOI: 10.1163/9789004400351_008",
+		"publisher": "Brill",
+		"source": "brill.com",
+		"title": "Cataloging: From a Dusty Backroom to the World Wide Web",
+		"title-short": "Cataloging",
+		"URL": "https://brill.com/view/book/9789004400351/BP000015.xml",
+		"author": [
+			{
+				"family": "Lit",
+				"given": "L. W. C.",
+				"dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/VIB8XECE",
+		"type": "webpage",
+		"title": "The Ark of Studies",
+		"URL": "http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503575230-1",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/M7ADDV2B",
+		"type": "article-journal",
+		"container-title": "The Seventeenth Century",
+		"DOI": "10.1080/0268117X.2004.10555543",
+		"ISSN": "0268-117X",
+		"issue": "2",
+		"note": "publisher: Routledge\n_eprint: https://www.tandfonline.com/doi/pdf/10.1080/0268117X.2004.10555543",
+		"page": "196-232",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Thomas Harrison and his ‘Ark of Studies’ An Episode in the History of the Organization of Knowledge",
+		"URL": "https://www.tandfonline.com/doi/abs/10.1080/0268117X.2004.10555543",
+		"volume": "19",
+		"author": [
+			{
+				"family": "MALCOLM",
+				"given": "NOEL"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/K95NKGGI",
+		"type": "webpage",
+		"container-title": "On Computing Machines",
+		"title": "On Computing Machines",
+		"URL": "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf",
+		"author": [
+			{
+				"family": "Turing",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					14
+				]
+			]
+		}
 	}
 ]
