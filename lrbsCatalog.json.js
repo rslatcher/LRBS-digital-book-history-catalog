@@ -16,18 +16,24 @@ var catData = [
 				"family": "Lesk",
 				"given": "Michael"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/4293914/items/MCGTLEWU",
-		"type": "article-journal",
+		"type": "book",
 		"abstract": "A revealing and surprising look at how classification systems can shape both worldviews and social interactions.What do a seventeenth-century mortality table (w",
-		"DOI": "10.7551/mitpress/6352.001.0001",
 		"language": "en",
 		"source": "direct.mit.edu",
 		"title": "Sorting Things Out: Classification and Its Consequences",
 		"title-short": "Sorting Things Out",
-		"URL": "https://direct.mit.edu/books/book/4738/Sorting-Things-OutClassification-and-Its",
+		"URL": "10.7551/mitpress/6352.001.0001",
 		"author": [
 			{
 				"family": "Bowker",
@@ -50,9 +56,7 @@ var catData = [
 		"issued": {
 			"date-parts": [
 				[
-					"2000",
-					8,
-					25
+					"2000"
 				]
 			]
 		}
@@ -171,16 +175,14 @@ var catData = [
 	},
 	{
 		"id": "http://zotero.org/groups/4293914/items/ZL8XIGCX",
-		"type": "article-journal",
+		"type": "book",
 		"abstract": "Cambridge Core - Printing and Publishing History - Old Books and Digital Publishing: Eighteenth-Century Collections Online",
-		"container-title": "Elements in Publishing and Book Culture",
-		"DOI": "10.1017/9781108767415",
 		"language": "en",
 		"note": "ISBN: 9781108767415 9781108720694\npublisher: Cambridge University Press",
 		"source": "www.cambridge.org",
 		"title": "Old Books and Digital Publishing: Eighteenth-Century Collections Online",
 		"title-short": "Old Books and Digital Publishing",
-		"URL": "https://www.cambridge.org/core/elements/old-books-and-digital-publishing-eighteenthcentury-collections-online/058DB12DE06A4C00770B46DCFAE1D25E",
+		"URL": "10.1017/9781108767415",
 		"author": [
 			{
 				"family": "Gregg",
@@ -199,8 +201,7 @@ var catData = [
 		"issued": {
 			"date-parts": [
 				[
-					"2020",
-					12
+					"2020"
 				]
 			]
 		}
@@ -311,8 +312,8 @@ var catData = [
 		"URL": "https://www.upenn.edu/pennpress/book/16248.html",
 		"author": [
 			{
-				"family": "Matthew",
-				"given": "Kirschenbaum"
+				"family": "Kirschenbaum",
+				"given": "Matthew"
 			}
 		],
 		"accessed": {
@@ -399,9 +400,7 @@ var catData = [
 		"issued": {
 			"date-parts": [
 				[
-					"2017",
-					5,
-					17
+					"2017"
 				]
 			]
 		}
@@ -593,8 +592,7 @@ var catData = [
 		"issued": {
 			"date-parts": [
 				[
-					"2012",
-					10
+					"2012"
 				]
 			]
 		}
@@ -645,6 +643,66 @@ var catData = [
 			"date-parts": [
 				[
 					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/FCWKPDVT",
+		"type": "speech",
+		"title": "Computer Vision and the History of Printing",
+		"URL": "http://www.bodleian.ox.ac.uk/__data/assets/pdf_file/0011/172658/JSC_Poster_v3.pdf",
+		"author": [
+			{
+				"family": "Chung",
+				"given": "Joon Son"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/SFTPKCVX",
+		"type": "paper-conference",
+		"container-title": "Computer Vision-ECCV 2014 Workshops",
+		"page": "85–100",
+		"publisher": "Springer",
+		"source": "Google Scholar",
+		"title": "Re-presentations of Art Collections",
+		"URL": "http://link.springer.com/chapter/10.1007/978-3-319-16178-5_6",
+		"author": [
+			{
+				"family": "Chung",
+				"given": "Joon Son"
+			},
+			{
+				"family": "Arandjelović",
+				"given": "Relja"
+			},
+			{
+				"family": "Bergel",
+				"given": "Giles"
+			},
+			{
+				"family": "Franklin",
+				"given": "Alexandra"
+			},
+			{
+				"family": "Zisserman",
+				"given": "Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					5,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
 				]
 			]
 		}
@@ -749,8 +807,8 @@ var catData = [
 		"volume": "19",
 		"author": [
 			{
-				"family": "MALCOLM",
-				"given": "NOEL"
+				"family": "Malcolm",
+				"given": "Noel"
 			}
 		],
 		"accessed": {
@@ -765,9 +823,7 @@ var catData = [
 		"issued": {
 			"date-parts": [
 				[
-					"2004",
-					9,
-					1
+					"2004"
 				]
 			]
 		}
@@ -790,6 +846,275 @@ var catData = [
 					"2021",
 					6,
 					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/YY298KQ6",
+		"type": "webpage",
+		"title": "Weaving the Web",
+		"URL": "https://www.w3.org/People/Berners-Lee/Weaving/Overview.html",
+		"author": [
+			{
+				"family": "Berners-Lee",
+				"given": "Tim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/CTI639V7",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "Studying Early Printed Books 1450–1800: A Practical Guide – Early Printed Books",
+		"title-short": "Studying Early Printed Books 1450–1800",
+		"URL": "https://www.earlyprintedbooks.com/studying-early-printed-books-1450-1800-a-practical-guide/",
+		"author": [
+			{
+				"family": "Werner",
+				"given": "Sarah"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/2BA5L4LL",
+		"type": "webpage",
+		"title": "Linked Data - Design Issues",
+		"URL": "https://www.w3.org/DesignIssues/LinkedData.html",
+		"author": [
+			{
+				"family": "Berners-Lee",
+				"given": "Tim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/WWRULLA2",
+		"type": "motion_picture",
+		"abstract": "An introduction to linked open data for libraries, archives, and museums (LODLAM) for my MLIS graduate students. Transcript: https://www.dropbox.com/s/uvhu6gcobn5...\n\nImage Sources & Further Reading\n\nHooland, Seth van, and Ruben Verborgh. Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata. U.S. edition. Chicago: Neal-Schuman, an imprint of the American Library Association, 2014.\n\nThe LODLAM Unconferences. “The LODLAM Unconferences.” Accessed December 8, 2020. https://lodlam.net/.\n\nMeindertsma, Joep. “What’s the Best RDF Serialization Format?” Ontola.io, June 29, 2019. http://ontola.io/blog/rdf-serializati....\n\n“American Art Collaborative Linked Open Data Initiative | Smithsonian American Art Museum.” Accessed December 8, 2020. https://americanart.si.edu/about/amer....\n\nVladimir Alexiev. \"Museum Linked Open Data: Ontologies, Datasets, Projects.\" http://dipp.math.bas.bg/images/2018/0....\n\nLincoln, Matthew. “Using SPARQL to Access Linked Open Data.” Edited by Fred Gibbs. The Programming Historian, no. 4 (November 24, 2015). https://doi.org/10.46430/phen0047.\n\nBlaney, Jonathan. “Introduction to the Principles of Linked Open Data.” Programming Historian, May 7, 2017. https://programminghistorian.org/en/l....",
+		"dimensions": "18:43",
+		"source": "YouTube",
+		"title": "What is Linked Open Data?",
+		"URL": "https://www.youtube.com/watch?v=VZBpFiLbi-Y",
+		"author": [
+			{
+				"literal": "Miriam Posner"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/NH5BP7H9",
+		"type": "article-journal",
+		"container-title": "Programming Historian",
+		"language": "en",
+		"source": "programminghistorian.org",
+		"title": "Introduction to the Principles of Linked Open Data",
+		"URL": "https://programminghistorian.org/en/lessons/intro-to-linked-data",
+		"author": [
+			{
+				"family": "Blaney",
+				"given": "Jonathan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/ZBPBXSVW",
+		"type": "webpage",
+		"abstract": "The cloud lies under the ocean. Thin cables about as big around as a garden hose traverse the Earth's oceans carrying all our intercontinental internet data.",
+		"container-title": "The Conversation",
+		"language": "en",
+		"title": "In our Wi-Fi world, the internet still depends on undersea cables",
+		"URL": "http://theconversation.com/in-our-wi-fi-world-the-internet-still-depends-on-undersea-cables-49936",
+		"author": [
+			{
+				"family": "Starosielski",
+				"given": "Nicole"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/VVH26VSW",
+		"type": "webpage",
+		"title": "An Introduction to IIIF",
+		"URL": "https://resources.digirati.com/iiif/an-introduction-to-iiif/",
+		"author": [
+			{
+				"family": "Crane",
+				"given": "Tom"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/7CGVZURQ",
+		"type": "article-journal",
+		"container-title": "Studies in Bibliography",
+		"page": "129-161",
+		"title": "\"The Eternal Verities Verified\": Charlton Hinman and the Roots of Mechanical Collation",
+		"URL": "http://xtf.lib.virginia.edu/xtf/view?docId=StudiesInBiblio/uvaBook/tei/sibv053.xml;chunk.id=vol053.04;toc.depth=1;toc.id=vol053.04;brand=default",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Steven Escar"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4293914/items/Q4R78LH4",
+		"type": "article-journal",
+		"abstract": "Sustained dialogue and collaborative work between art historians and technologists has a great deal to offer both fields of inquiry. In this paper, we propose that effective collaborations in Digital Art History, however, require more than just a humanist and a technologist to succeed. Indeed, we find that there are four different roles that need to be filled: Humanist, Technologist, Data Steward, and Catalyst. Our approach is predicated on a few foundational convictions. First, we believe that art historians and technologists occupy distinct problem spaces. As we will outline, although these realms are distinct they are not of necessity in opposition to one another. Second, we bring to the fore essential questions about the status and function of data that must be addressed by the collaborators: what sort of data are being used? What counts as effective and compelling analysis of this data? Third, we recognize that there are certain structural impediments to collaboration, such as different reward structures and motivations. Finally, we assert that each of the participants must have a deep commitment to their particular engagement with the project, which requires sustained effort and the maintenance of disciplinary respect. We firmly believe that the most effective of these projects will not be based on technological solutionism, but rather will be founded in the most humanistic of tools: empathy and respect.",
+		"container-title": "International Journal for Digital Art History",
+		"DOI": "10.11588/dah.2018.3.34297",
+		"ISSN": "2363-5401",
+		"issue": "3",
+		"journalAbbreviation": "DAH",
+		"language": "en",
+		"note": "number: 3",
+		"source": "journals.ub.uni-heidelberg.de",
+		"title": "A Role-Based Model for Successful Collaboration in Digital Art History",
+		"URL": "https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/34297",
+		"author": [
+			{
+				"family": "Langmead",
+				"given": "Alison"
+			},
+			{
+				"family": "Berg-Fulton",
+				"given": "Tracey"
+			},
+			{
+				"family": "Lombardi",
+				"given": "Thomas"
+			},
+			{
+				"family": "Newbury",
+				"given": "David"
+			},
+			{
+				"family": "Nygren",
+				"given": "Christopher"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					27
 				]
 			]
 		}
